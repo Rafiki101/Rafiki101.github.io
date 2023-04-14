@@ -18,4 +18,4 @@ permalink: date # how your URLs are built, see https://jekyllrb.com/docs/permali
 # exclude:  
 # - .gitignore
 # - CNAME 
-theme: Midnight
+# theme: Midnight
